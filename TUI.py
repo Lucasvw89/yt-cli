@@ -1,5 +1,5 @@
 from pyfzf import FzfPrompt
-import os, subprocess
+import subprocess
 
 '''The TUI uses fzf to make good looking menus'''
 
